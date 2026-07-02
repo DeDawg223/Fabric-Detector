@@ -11,7 +11,7 @@ The Algorithm
 
  The images I used for this project --> https://www.kaggle.com/datasets/nexuswho/fabric-defects-dataset
 
- The way you are able to tell what the issue with the fabric is, is by the number it gives you after each possible conclustion. If a conclusion has a 1 next to it, this means that the AI thinks its 100% that. Decimal points means there         could be multiple answers or the image is just hard to decode. This can be seen in the image provided above
+ The way you are able to tell what the issue with the fabric is, is by the number it gives you after each possible outcome. If a outcome has a 1 next to it, this means that the AI thinks its 100% that outcome. Decimal points means there         could be multiple answers or the image is just hard to decode. This can be seen in the image provided above
 
  
 Running the Fabric Detector
