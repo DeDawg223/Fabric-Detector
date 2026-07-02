@@ -3,14 +3,17 @@ Fabric Detector
 
   The Fabric Detector is a system able to detect if there is something wrong with your clothing or any fabric you have. 
 
-  Here you can see how the system looks and how it detects the fabric. (direct image link here)
+  Here you can see how the system looks and how it detects the fabric --> file:///C:/Users/Student/Pictures/Screenshots/Screenshot%202026-07-02%20143020.png 
 
 
 The Algorithm
 -------------
 
-Here is the image to what my project looks like and kinda how it works --> file:///C:/Users/Student/Pictures/Screenshots/Screenshot%202026-07-02%20143020.png
+ The images I used for this project --> https://www.kaggle.com/datasets/nexuswho/fabric-defects-dataset
 
+ The way you are able to tell what the issue with the fabric is, is by the number it gives you after each possible conclustion. If a conclusion has a 1 next to it, this means that the AI thinks its 100% that. Decimal points means there         could be multiple answers or the image is just hard to decode. This can be seen in the image provided above
+
+ 
 Running the Fabric Detector
 ---------------------------
 
@@ -24,13 +27,6 @@ Video Explanation
 -----------------
 
   file:///C:/Users/Student/Videos/Screen%20Recordings/Screen%20Recording%202026-07-02%20135947.mp4
-
-Further Explanation
--------------------
-
-  I missed a couple points I needed to get across in my video, so I will have them here
-
-  The way you are able to tell what the issue with the fabric is, is by the number it gives you after each possible conclustion. If a conclusion has a 1 next to it, this means that the AI thinks its 100% that. Decimal points means there       could be multiple answers or the image is just hard to decode. This can be seen in the image provided above
 
 How I Got This Idea/ How Can This Help In The Future
 ----------------------------------------------------
