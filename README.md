@@ -26,7 +26,7 @@ Running the Fabric Detector
 Video Explanation
 -----------------
 
-  file:///C:/Users/Student/Videos/Screen%20Recordings/Screen%20Recording%202026-07-02%20135947.mp4
+ https://youtu.be/vxj_ZXd0FQA
 
 How I Got This Idea/ How Can This Help In The Future
 ----------------------------------------------------
@@ -35,6 +35,6 @@ How I Got This Idea/ How Can This Help In The Future
 
   This is a huge problem in the clothing and fabric industy. I think this idea could be useful in quality control, so that we can get rid of as many malfunctions in clothing as possible.
 
-  I know my project is not good enough to be on its own. However, I do believe expanding on this idea could be benifital for this huge industy. This will take a lot of serious work and dedication if I do want to continue with this, but I      think it can truly be something more than just a silly little project at a tech camp.
+  I know my project is not good enough to be on its own. However, I do believe expanding on this idea could be benifital for this huge industy. This will take a lot of serious work and dedication if I do want to continue with this, but I        think it can truly be something more than just a silly little project at a tech camp.
 
   
