@@ -18,7 +18,8 @@ Running the Fabric Detector
   Go to the right folder --> cd ~/jetson-inference/python/training/classification/data/Fabric
 
   Paste in this code into the terminal --> yolo classify predict model=runs/classify/train-6/weights/best.pt source="Fabric Defects Dataset/test/hole"
-  
-  Make sure to include any required libraries that need to be installed for your project to run.
 
-  [View a video explanation here](video link)
+Video Explination
+-----------------
+
+  file:///C:/Users/Student/Videos/Screen%20Recordings/Screen%20Recording%202026-07-02%20135947.mp4
